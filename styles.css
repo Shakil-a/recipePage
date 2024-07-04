@@ -71,6 +71,10 @@ hr{
     margin-bottom: 10px;
 }
 
+.nutrition h2{
+    font-size: 2em;
+}
+
 table{
     margin: 10px;
     border-collapse: collapse;
@@ -79,4 +83,8 @@ table{
 td{
     padding: 10px 130px 10px 0px;
     border-bottom: 1px solid darkgrey;
+}
+
+h2{
+    color: hsl(332, 51%, 32%); ;
 }
